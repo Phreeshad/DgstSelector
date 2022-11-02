@@ -1,5 +1,7 @@
 Provides a custom [TypeAhead](https://pub.dev/packages/flutter_typeahead) bindable with a **single selective** or **multi selective** item list. Multiple selections, can be shown as id based **chips**.
 
+## Usage
+
 ```dart
 final List<DgstSelectionItem> initItems = <DgstSelectionItem>[
     const DgstSelectionItem(id: 1, name: 'Item 1'),
