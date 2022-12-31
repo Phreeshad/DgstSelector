@@ -19,7 +19,7 @@ DgstSelector(
 )
 ```
 
-![Output](https://filebin.net/3933v2r4zq0m5ux6/output.gif)
+![Output](output.gif)
 
 ---
 
